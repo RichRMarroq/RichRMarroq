@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichRMarroq
 - 👀 I’m interested in Cloud Development, QA Automation, and Web Development!
-- 🌱 I’m currently learning PHP, BASH, and C
+- 🌱 I’m currently learning Python, Javascript, HTML/CSS
 
 <!---
 RichRMarroq/RichRMarroq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
